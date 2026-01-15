@@ -1,3 +1,3 @@
 # Serena
-Bonjour, je m'appelle Séréna Pounaud et je suis en formation pour devenir développeuse full stack.
+Bonjour, je m'appelle Séréna Pounaud et je suis en formation pour devenir développeuse full stack.  
 Durant cette formation, je vais voir différents langages et frameworks tels que HTML, CSS, JavaScript, Node.js + Express, Python, PHP, VueJS, React/Angular, SQL/NoSQL (MongoDB) en parallèle de cours sur l’accessibilité, sécurité, optimisations, tests logiciels, Api Rest, gestion de projet, maquettage Figma/UX, Linux, initiation aux ORMs & SQL avancé, devOps: déploiement de code & Docker & CICD, Git/Github, communication avec son client... 
