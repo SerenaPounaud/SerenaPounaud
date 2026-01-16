@@ -1,3 +1,34 @@
-# Serena
-Bonjour, je m'appelle Séréna Pounaud et je suis en formation pour devenir développeuse full stack.  
-Durant cette formation, je vais voir différents langages et frameworks tels que HTML, CSS, JavaScript, Node.js + Express, Python, PHP, VueJS, React/Angular, SQL/NoSQL (MongoDB) en parallèle de cours sur l’accessibilité, sécurité, optimisations, tests logiciels, Api Rest, gestion de projet, maquettage Figma/UX, Linux, initiation aux ORMs & SQL avancé, devOps: déploiement de code & Docker & CICD, Git/Github, communication avec son client... 
+## :wave: Bonjour, je m'appelle **Séréna Pounaud**  
+### :woman_technologist: Je suis actuellement en formation pour devenir **développeuse full stack**.
+
+### :hammer_and_wrench: Technologies & langages
+Durant cette formation, j’apprends et pratique :
+
+### :computer: Langages & frameworks
+- :globe_with_meridians: **HTML / CSS**
+- :zap: **JavaScript**
+- :green_circle: **Node.js + Express**
+- :snake: **Python**
+- :elephant: **PHP**
+- :framed_picture: **Vue.js**
+- :atom_symbol: **React / Angular**
+
+### :card_file_box: Bases de données
+- :oil_drum: **SQL**
+- :leaves: **NoSQL (MongoDB)**
+
+### :books: Compétences transverses
+En parallèle, je me forme également sur :
+
+- :wheelchair: **Accessibilité web**
+- :lock: **Sécurité**
+- :rocket: **Optimisation des performances**
+- :test_tube: **Tests logiciels**
+- :electric_plug: **API REST**
+- :clipboard: **Gestion de projet**
+- :art: **Maquettage (Figma / UX)**
+- :penguin: **Linux**
+- :jigsaw: **Initiation aux ORMs & SQL avancé**
+- :gear: **DevOps** : déploiement, Docker, CI/CD
+- :twisted_rightwards_arrows: **Git / GitHub**
+- :speech_balloon: **Communication avec le client**
