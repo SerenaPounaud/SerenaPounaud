@@ -1,6 +1,6 @@
 ## :wave: Bonjour, je m'appelle **Séréna Pounaud**  
 ### :woman_technologist: Je suis actuellement en formation pour devenir **développeuse full stack**.
-Vous pouvez voir mon projet pour valider ma formation (en cours) ou mon CV dans mes repo.
+Vous pouvez voir mon projet pour valider ma formation (en cours) ou mon CV dans mes repos.
 
 ### :hammer_and_wrench: Technologies & langages
 Durant cette formation, j’apprends et pratique :
